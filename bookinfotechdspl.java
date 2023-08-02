@@ -9,7 +9,7 @@ public class BookInfotech { // class name
 
     public static void main(String[] args) { // main method
         System.out.println("BOOK INFOTECH");
-        Scanner scanner = new Scanner(System.in); // create a Scanner object
+         Scanner scanner = new Scanner(System.in); // create a Scanner object
         int choice; // declare a variable to store the user's choice
         System.out.println("Welcome to the Book Infotech Library!");
         System.out.println("Empowering Libraries with DSPL - Managed by DSPL India");
